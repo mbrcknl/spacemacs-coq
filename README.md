@@ -36,7 +36,7 @@ key bindings.
 - Install Spacemacs layer
 
         $ cd ~/.emacs.d/private
-        $ git clone git@github.com:mbrcknl/spacemacs-coq
+        $ git clone git@github.com:mbrcknl/spacemacs-coq coq
 
 - Add `coq` layer to `~/.spacemacs`
 
